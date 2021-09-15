@@ -1,6 +1,6 @@
 # dwAssignment01
 
-Your OS: Windows and Linux (Seperate Machines)
+Your OS: Windows and Linux Mint (Seperate Machines)
 GitHub Experience: Experienced
 GitHub Tool: CLI
 GitHub Tutorial: None
